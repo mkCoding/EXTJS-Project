@@ -1,4 +1,4 @@
-EXTJS-Project
+*EXTJS-Project*
 
 What was used to develop the application:
  Eclipse (Keplar)
