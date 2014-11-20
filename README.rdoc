@@ -5,8 +5,9 @@ What was used to develop the application:
  
 Summary:
 
-  This application demonstrates my skill utilizing Extensive Javascript framework/libraries.
-  This application simply takes values from input fields  and adds them to a grid.
+  This application demonstrates my skill utilizing Extensive Javascript 
+  framework/libraries. This application simply takes values from input fields
+  and adds them to a grid.
 
 How to use:
 
