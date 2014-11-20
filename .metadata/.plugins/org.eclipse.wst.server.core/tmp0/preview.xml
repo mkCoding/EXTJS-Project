@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="JacadaExtJSAssignment" name="JacadaExtJSAssignment" path="C:/Users/Computer Science/Desktop/Latest Projects/Eclipse Projects/Keplar Projects(J2EE)/Jacada/tempExtJSFinal/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/JacadaExtJSAssignment" type="static"/>
+</server>
