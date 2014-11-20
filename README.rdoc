@@ -14,7 +14,7 @@ How to use:
 
 http://benemly40.appspot.com/
 
- Next simply add some values to 1 or more of the components in the field set
+ Next add some values to 1 or more of the components within the field set
  After the information is entered press the Display button to add data to the grid
 
 
