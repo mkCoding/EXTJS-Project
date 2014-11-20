@@ -2,6 +2,7 @@
 
 What was used to develop the application:
  Eclipse (Keplar)
+ HTML and Extensive Javascript
  
 Summary:
 
