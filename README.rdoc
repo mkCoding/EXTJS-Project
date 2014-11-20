@@ -22,7 +22,7 @@ http://benemly40.appspot.com/
 
 Notes:
 
- The ExtJS libraries/framewords were used from the sencha.com website below:
+ The ExtJS libraries/framewords were used from the sencha links below:
  http://cdn.sencha.io/ext-4.1.1-gpl/resources/css/ext-all.css
  http://cdn.sencha.io/ext-4.1.1-gpl/ext-all.js
 
